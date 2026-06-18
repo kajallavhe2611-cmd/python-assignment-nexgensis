@@ -1,3 +1,14 @@
+"""
+Nexgensis Technologies Assignment
+
+Author: Kajal Lavhe
+
+Assumptions:
+1. Agent positions remain fixed.
+2. Packages are assigned independently.
+3. In case of equal distances, first matching agent is selected.
+4. Euclidean distance is used.
+"""
 import json
 import math
 
